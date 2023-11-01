@@ -4,9 +4,9 @@
 <div align="center">
    <strong>CodeSpectrum</strong> -A platform to make your journey easy for your coding journey. <br>
   <br> <br>
-  <a href="https://github.com/Krishna-13-cyber/CodeSpectrum/stargazers"><img alt="GitHub issues" src="https://img.shields.io/github/stars/Krishna-13-cyber/CodeSpectrum"></a>
-  <a href="https://github.com/Krishna-13-cyber/CodeSpectrum/network/members"><img alt="GitHub stars" src="https://img.shields.io/github/forks/Krishna-13-cyber/CodeSpectrum"></a>
-  <a href="https://github.com/Krishna-13-cyber/CodeSpectrum/issues"><img alt="GitHub contributors" src="https://img.shields.io/github/issues/Krishna-13-cyber/CodeSpectrum"></a>
+  <a href="https://github.com/harshbhosale01/CodeSpectrum/stargazers"><img alt="GitHub issues" src="https://img.shields.io/github/stars/harshbhosale01/CodeSpectrum"></a>
+  <a href="https://github.com/harshbhosale01/CodeSpectrum/network/members"><img alt="GitHub stars" src="https://img.shields.io/github/forks/harshbhosale01/CodeSpectrum"></a>
+  <a href="https://github.com/harshbhosale01/CodeSpectrum/issues"><img alt="GitHub contributors" src="https://img.shields.io/github/issues/harshbhosale01/CodeSpectrum"></a>
    <img src="https://komarev.com/ghpvc/?username=CodeSpectrum&label=Project%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   
@@ -46,7 +46,7 @@ We have also shared the interview and placement experiences of our seniors from 
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/Krishna-13-cyber/CodeSpectrum)
+- GitHub repo link: [Link to repository](https://github.com/harshbhosale01/CodeSpectrum)
 
 ## 🤖 Technology Stack
 
@@ -67,16 +67,16 @@ We have also shared the interview and placement experiences of our seniors from 
 
 1. Clone the repository
 ```
-https://github.com/Krishna-13-cyber/CodeSpectrum.git
+git clone https://github.com/harshbhosale01/CodeSpectrum.git
 
 ```
-To start the frontend user interface
+2. To start the frontend user interface
 ```
 cd client
 npm install
 npm start
 ```
-To start the backend server
+3. To start the backend server
 ```
 cd server
 npm install
