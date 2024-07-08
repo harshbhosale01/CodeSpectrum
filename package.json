@@ -10,20 +10,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.24.0",
-    "bcrypt": "^5.0.1",
+    "axios": "^1.7.2",
+    "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
-    "cryptr": "^6.0.2",
-    "dotenv": "^10.0.0",
+    "cryptr": "^6.3.0",
+    "dotenv": "^16.4.5",
     "express": "^4.17.1",
     "lyrics-finder": "^21.7.0",
-    "mongoose": "^6.0.13",
-    "node-schedule": "^2.1.0",
-    "nodemon": "^2.0.15",
+    "mongoose": "^8.4.4",
+    "node-schedule": "^2.1.1",
+    "nodemon": "^3.1.4",
     "socket.io": "^4.4.1",
     "solenolyrics": "^5.0.0",
-    "wikipedia": "^1.1.6",
+    "wikipedia": "^2.1.2",
     "xhr2": "^0.2.1"
   }
 }

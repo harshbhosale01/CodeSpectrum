@@ -29,7 +29,7 @@ const io = socket(server, {
 
 
 const url = process.env.MongoDB_Database_Url;
-mongoose.connect(url)
+mongoose.connect('mongodb://127.0.0.1:27017')
     .then(() => {
         console.log("Connected.");
     })

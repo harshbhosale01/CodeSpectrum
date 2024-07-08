@@ -84,9 +84,7 @@ npm start
 ```
 
 ## 🖼 Screenshots
-![image](https://user-images.githubusercontent.com/84740927/153249904-1b7273fc-68b4-4cc8-83f2-d1963109fc96.png)
-
-![image](https://user-images.githubusercontent.com/84740927/153250049-5fb3d8da-30de-4dd0-a10b-77e7191d8cff.png)
+![image](assets\ss_LoginPage.JPG)
 
 ![image](https://user-images.githubusercontent.com/84740927/153250658-65e8bdb8-d4d5-4804-a1a9-833010b2f00a.png)
 
